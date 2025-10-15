@@ -1,4 +1,4 @@
-# "Git Tutorial for Absolute Beginners"
+# "Git Tutorial for Absolute Beginner"
 
 ---
 
